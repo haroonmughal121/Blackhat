@@ -46,5 +46,3 @@ bash blackhat.sh
 ---
 
 **⚠ Disclaimer:** This tool is for **educational and ethical purposes** only. Use it responsibly!  
-
-**🔗 Follow Noob Cyber Tech on YouTube for more hacking tools & tutorials.** 👨‍💻
